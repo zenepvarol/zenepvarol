@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm Zeynep</h1>
 <h3 align="center">I'm a 4th-year Software Engineering student focusing on Augmented Reality (AR) and Web Development. I love learning through building real projects and exploring how technology can create meaningful solutions.</h3>
 
-- 🧠 Currently working on **AR-based applications** (Unity & computer vision concepts)
-- 🌐 Improving my skills in **Web Development**
+- 🧠 **Currently working on:** Advanced Web-based Simulations (Vue.js, Leaflet & Real-time Telemetry)
+- 🌐 **Improving my skills in:** Frontend Architecture & Scalable Web Apps
 - 💡 Passionate about developing creative, user-focused tech solutions
 - 📱 How to reach me: **zeynep1varol@gmail.com**
 
@@ -34,5 +34,17 @@
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
