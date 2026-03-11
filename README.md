@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋🏻, I'm Zeynep</h1>
 <h3 align="center">I'm a 4th-year Software Engineering student focusing on Augmented Reality (AR) and Web Development. I love learning through building real projects and exploring how technology can create meaningful solutions.</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zenepvarol&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zenepvarol&theme=tokyonight&short_numbers=true&mode=weekly"/>
+</p>
 
 - 🧠 **Currently working on:** Advanced Web-based Simulations (Vue.js, Leaflet & Real-time Telemetry)
 - 🌐 **Improving my skills in:** Frontend Architecture & Scalable Web Apps
