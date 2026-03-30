@@ -2,8 +2,7 @@
 <h3 align="center">I'm a 4th-year Software Engineering student focusing on Augmented Reality (AR) and Web Development. I love learning through building real projects and exploring how technology can create meaningful solutions.</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zenepvarol&theme=tokyonight&short_numbers=true&mode=weekly"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zenepvarol&theme=dark-minimalist&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a></p>
 
 - 🧠 **Currently working on:** Advanced Web-based Simulations (Vue.js, Leaflet & Real-time Telemetry)
 - 🌐 **Improving my skills in:** Frontend Architecture & Scalable Web Apps
