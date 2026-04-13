@@ -2,9 +2,7 @@
 <h3 align="center">4th-year Software Engineering Student | Full-Stack Web & AR/VR Developer</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zenepvarol&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zenepvarol&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -38,6 +36,7 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
 </p>
 
 ---
