@@ -7,16 +7,25 @@
 
 ---
 
-### About Me
-- **Currently focusing on:** Developing **Full-Stack Flight Simulation & Management Systems** using **Vue.js 3, .NET 10, and PostgreSQL**.
-- **AR/VR Enthusiast:** Creator of **MiniLingo**, an interactive language learning game built with **Unity** and **Vuforia**.
+### 👩🏻‍💻 About Me
+- **Currently focusing on:** Developing **Full-Stack Flight Simulation & Management Systems** using **Vue.js 3, .NET, and PostgreSQL**.
 - **Research:** Working on a **TÜBİTAK 2209-A** project focused on innovative educational technologies.
 - **Passionate about:** Scalable frontend architectures, AI-driven solutions (LLMs), and creative UI/UX.
 - **Reach me at:** **zeynep1varol@gmail.com**
 
 ---
 
-### Languages and Tools
+### 🚀 Featured Projects
+
+- ✈️ **[IHA_System](https://github.com/zenepvarol/IHA_System)** *(Internship Project)*  
+  A comprehensive full-stack application developed during my internship for managing and simulating Unmanned Aerial Vehicles (UAVs). Built with **Vue.js 3, Pinia, Vuetify, Leaflet** on the frontend and **.NET, PostgreSQL** on the backend.
+
+- 🎮 **MiniLingo**  
+  An interactive language learning AR/VR game built with **Unity** and **Vuforia**.
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
@@ -47,7 +56,7 @@
 
 ---
 
-### Connect with Me
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/zeynep-v-275018247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/zenepvarol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
